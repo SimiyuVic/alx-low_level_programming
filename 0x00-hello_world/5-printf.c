@@ -4,8 +4,7 @@
  * main - prints " with proper grammar,
  * but the outcome is a piece of art"
  * followed by a new line
- * Returns: 0
- * compile without warning when using the -Wall gcc option
+ * Returns: Always 0.
  */
 
 int main(void)
